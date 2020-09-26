@@ -1,2 +1,2 @@
 # isoftware.io
-isoftware.io blog content
+isoftware.io blog content - updated.
